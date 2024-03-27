@@ -1,4 +1,3 @@
-import sys
 import openai
 
 # Инициализация клиента API OpenAI с вашим API ключом
