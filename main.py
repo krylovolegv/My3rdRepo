@@ -1,1 +1,2 @@
-print("goodby")
+
+print('delthefunkyhomosapiense')
